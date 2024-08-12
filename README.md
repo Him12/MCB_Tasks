@@ -25,6 +25,12 @@ XXBCM_INVOICE_HOLDS
 
 **Tasks**
 
+(**Task 1**)
+
+Create the “XXBCM_ORDER_MGT" table using the script - DB_Prequisite.sql
+
+Reqired file created and screenshot available in the word file name Task 1 Output
+
 (**Task 2**)
 
 Normalize Tables 
