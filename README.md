@@ -2,9 +2,11 @@
 This assignment involves various tasks related to PL/SQL using Oracle SQL Developer. The tasks include normalizing tables, creating and executing PL/SQL packages, and performing specific queries.
 
 **Tools Used**
+
 Oracle SQL Developer
 
 **Tables Involved**
+
 XXBCM_SUPPLIER_ADDRESS
 XXBCM_SUPPLIERS
 XXBCM_SUPPLIER_CONTACTS
@@ -15,6 +17,7 @@ XXBCM_INVOICE_LINES
 XXBCM_INVOICE_HOLDS
 
 **Tasks**
+
 Normalize Tables (**Task 2**)
 Normalize the given tables to ensure efficient data storage and retrieval.
 
